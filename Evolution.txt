@@ -1,0 +1,8 @@
+This file serves me for keep on the track and see what i did.
+
+1-Numpy quick_start finished (https://numpy.org/devdocs/user/quickstart.html)
+2-Pandas
+    2.1-Redo intro to data structures(https://pandas.pydata.org/docs/user_guide/dsintro.html#dsintro)
+    2.2-Redo 10 minutes to pandas(https://pandas.pydata.org/docs/user_guide/10min.html)
+    2.3-Do kaggle pandas course(https://www.kaggle.com/learn/pandas)
+    2.4-Check the link for more(https://pandas.pydata.org/docs/getting_started/tutorials.html)
